@@ -1,5 +1,10 @@
 <template>
   <input type="text" placeholder="Filter by country" v-model="filter">
+  <span>   Sort By:  
+  <button v-on:click="this.sortby='country'">Country</button>
+  <button v-on:click="this.sortby='status'">Status</button>
+  <button v-on:click="this.sortby='date'">Delivery Date</button>
+  </span>
   <table>
     <thead>
       <tr>
@@ -9,7 +14,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-for="row in filteredRows" :key="row.country">
+      <tr v-for="row in filteredRows">
         <td>{{ row.country }}</td>
         <td>{{ row.status }}</td>
         <td>{{ row.date }}</td>
@@ -23,6 +28,8 @@
   export default {
     data() {
       return {
+        sortby: 'country',
+        direction: 1,
         filter:'',
         rows: json.countries
       }
@@ -34,8 +41,29 @@
           const status = row.status;
           const date = row.date;
           const searchTerm = this.filter.toLowerCase();
-
           return country.includes(searchTerm);
+        }).sort((a,b) => {
+          let fa, fb
+          switch (this.sortby) {
+            case "country":
+              fa = a.country.toString().toLowerCase(), fb = b.country.toString().toLowerCase();
+              break;
+            case "status":
+              fa = a.status.toString().toLowerCase(), fb = b.status.toString().toLowerCase();
+              break;
+            case "date":
+              fa = a.date.toString().toLowerCase(), fb = b.date.toString().toLowerCase();
+              break
+            default:
+              fa = a.country.toString().toLowerCase(), fb = b.country.toString().toLowerCase();
+          }
+          if (fa < fb) {
+            return -this.direction
+          }
+          if (fa > fb) {
+            return this.direction
+          }
+          return 0
         });
       }
     }
