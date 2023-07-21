@@ -16,11 +16,6 @@
             "date": "Not Announced"
         },
         {
-            "country": "Finland",            
-            "status": "No Answer",
-            "date": "Not Announced"
-        },
-        {
             "country": "Singapore",            
             "status": "Getting Reglatory Approval Safety Mark",
             "date": "Not Announced"
@@ -42,8 +37,143 @@
         },
         {
             "country": "Manila",
-            "status": "...",
+            "status": "Waiting For Update",
             "date": "trying before August"
+        },
+        {
+            "country": "Austria",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Belgium",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Bulgaria",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "mainland China",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Croatia",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Czechia",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Denmark",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Finland",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "France",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Germany",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Greece",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "HongKong",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Hungary",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Ireland",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Italy",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Latvia",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Lithuania",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Luxembourg",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Netherlands",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Poland",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Portugal",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Romania",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Slovakia",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Slovenia",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Spain",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "Sweden",
+            "status": "First Batch On Route",
+            "date": "TBD"
+        },
+        {
+            "country": "the United Kingdom",
+            "status": "First Batch On Route",
+            "date": "TBD"
         }
     ]
 }
