@@ -1,0 +1,49 @@
+{
+    "countries": [
+        {
+            "country": "Australia",            
+            "status": "Getting Reglatory Approval EESS",
+            "date": "Not Announced"
+        }, 
+        {
+            "country": "US",            
+            "status": "Getting Reglatory Approval ETL",
+            "date": "Not Announced"
+        },
+        {
+            "country": "Canada",            
+            "status": "Getting Reglatory Approval ETL",
+            "date": "Not Announced"
+        },
+        {
+            "country": "Finland",            
+            "status": "No Answer",
+            "date": "Not Announced"
+        },
+        {
+            "country": "Singapore",            
+            "status": "Getting Reglatory Approval Safety Mark",
+            "date": "Not Announced"
+        },
+        {
+            "country": "Japan",            
+            "status": "Getting Reglatory Approval PSE",
+            "date": "Not Announced"
+        },
+        {
+            "country": "Thailand",
+            "status": "Waiting For Update",
+            "date": "Not Announced"
+        },
+        {
+            "country": "Taiwan",
+            "status": "Waiting For Update",
+            "date": "Not Announced"
+        },
+        {
+            "country": "Manila",
+            "status": "...",
+            "date": "trying before August"
+        }
+    ]
+}
