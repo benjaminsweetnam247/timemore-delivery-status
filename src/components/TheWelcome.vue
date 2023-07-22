@@ -3,14 +3,14 @@
   <span>   Sort By:  
   <button v-on:click="this.sortby='country'">Country</button>
   <button v-on:click="this.sortby='status'">Status</button>
-  <button v-on:click="this.sortby='date'">Delivery Date</button>
+  <button v-on:click="this.sortby='date'">Shipping Date</button>
   </span>
   <table>
     <thead>
       <tr>
         <th>Country</th>
         <th>Status</th>
-        <th>Delivery Date</th>
+        <th>Shipping Date</th>
       </tr>
     </thead>
     <tbody>

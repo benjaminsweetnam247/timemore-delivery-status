@@ -42,138 +42,143 @@
         },
         {
             "country": "Austria",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Belgium",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Bulgaria",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "mainland China",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Croatia",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Czechia",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Denmark",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Finland",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "France",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Germany",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Greece",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "HongKong",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Hungary",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Ireland",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Italy",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Latvia",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Lithuania",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Luxembourg",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Netherlands",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Poland",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Portugal",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Romania",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Slovakia",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Slovenia",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Spain",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "Sweden",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
         },
         {
             "country": "the United Kingdom",
-            "status": "First Batch On Route",
+            "status": "First Batch",
             "date": "Around the End of July"
+        },
+        {
+            "country": "Iceland",
+            "status": "Waiting For Update",
+            "date": "Not Announced"
         }
     ]
 }
