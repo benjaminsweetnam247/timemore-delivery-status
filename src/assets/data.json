@@ -8,12 +8,12 @@
         {
             "country": "US",            
             "status": "Getting Reglatory Approval ETL",
-            "date": "Not Announced"
+            "date": "Around Oct or Nov"
         },
         {
             "country": "Canada",            
             "status": "Getting Reglatory Approval ETL",
-            "date": "Not Announced"
+            "date": "Around Oct or Nov"
         },
         {
             "country": "Singapore",            
@@ -28,162 +28,177 @@
         {
             "country": "Thailand",
             "status": "Waiting For Update",
-            "date": "Not Announced"
+            "date": "Around Oct or Nov"
         },
         {
             "country": "Taiwan",
             "status": "Waiting For Update",
-            "date": "Not Announced"
+            "date": "Around Oct or Nov"
         },
         {
-            "country": "Manila",
+            "country": "Philippines",
             "status": "Waiting For Update",
-            "date": "trying before August"
+            "date": "Around Oct or Nov"
         },
         {
             "country": "Austria",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Belgium",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Bulgaria",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sepy"
         },
         {
             "country": "mainland China",
             "status": "First Batch",
-            "date": "Around the End of July"
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Croatia",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sep"
         },
         {
-            "country": "Czechia",
+            "country": "Cyprus",
             "status": "First Batch",
-            "date": "Around the End of July"
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Czech Republic",
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Denmark",
-            "status": "First Batch",
+            "status": "First Batch (A)",
             "date": "Around the End of July"
         },
         {
             "country": "Finland",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "France",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Germany",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (A and B)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Greece",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
         },
         {
-            "country": "HongKong",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "country": "Hong Kong",
+            "status": "First Batch (A)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Hungary",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Ireland",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Italy",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Latvia",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Lithuania",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Luxembourg",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Netherlands",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Poland",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Portugal",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Romania",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Slovakia",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Slovenia",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Spain",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "Sweden",
-            "status": "First Batch",
-            "date": "Around the End of July"
-        },
-        {
-            "country": "the United Kingdom",
-            "status": "First Batch",
-            "date": "Around the End of July"
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Iceland",
-            "status": "Waiting For Update",
-            "date": "Not Announced"
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Ireland",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Italy",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Latvia",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Lithuania",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Luxembourg",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Netherlands",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Norway",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Poland",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Portugal",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Romania",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Slovakia",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Slovenia",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Spain",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Sweden",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "Switzerland",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
+        },
+        {
+            "country": "United Kingdom",
+            "status": "First Batch (B)",
+            "date": "Around Aug or Sep"
         },
         {
             "country": "Brazil",
             "status": "Waiting For Update",
-            "date": "Not Announced"
+            "date": "Around Oct or Nov"
         }
     ]
 }
