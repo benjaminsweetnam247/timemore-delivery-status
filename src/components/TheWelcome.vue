@@ -21,6 +21,7 @@
       </tr>
     </tbody>
   </table>
+  <p>* Shipping date contingent on timely reglatory approval</p>
 </template>
 
 <script>
