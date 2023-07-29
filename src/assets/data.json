@@ -1,29 +1,29 @@
 {
     "countries": [
         {
-            "country": "Australia",            
+            "country": "Australia",
             "status": "Getting Reglatory Approval EESS",
-            "date": "Not Announced"
-        }, 
+            "date": "Around Oct or Nov*"
+        },
         {
-            "country": "US",            
+            "country": "US",
             "status": "Getting Reglatory Approval ETL",
             "date": "Around Oct or Nov"
         },
         {
-            "country": "Canada",            
+            "country": "Canada",
             "status": "Getting Reglatory Approval ETL",
             "date": "Around Oct or Nov"
         },
         {
-            "country": "Singapore",            
+            "country": "Singapore",
             "status": "Getting Reglatory Approval Safety Mark",
-            "date": "Not Announced"
+            "date": "Around Oct or Nov*"
         },
         {
-            "country": "Japan",            
+            "country": "Japan",
             "status": "Getting Reglatory Approval PSE",
-            "date": "Not Announced"
+            "date": "Around Oct or Nov*"
         },
         {
             "country": "Thailand",
@@ -197,7 +197,262 @@
         },
         {
             "country": "Brazil",
-            "status": "Waiting For Update",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Argentina",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Armenia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Bahrain",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Belarus",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Bolivia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Botswana",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Brunei Darussalam",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Cambodia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Chile",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Colombia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Costa Rica",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Egypt",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Estonia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Faroe Islands",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Greenland",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Guam",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Guatemala",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "India",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Indonesia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Iraq",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Israel",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Kazakhstan",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Kenya",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Korea",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Kuwait",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Lebanon",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Macao",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Malaysia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Maldives",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Malta",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Mexico",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Moldova",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Morocco",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "New Zealand",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "North Macedonia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Pakistan",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Peru",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Puerto Rico",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Qatar",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Réunion",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Russia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Saudi Arabia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Serbia",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "South Africa",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Timor-Leste",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Turkey",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Ukraine",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "United Arab Emirates",
+            "status": "Second Batch",
+            "date": "Around Oct or Nov"
+        },
+        {
+            "country": "Vietnam",
+            "status": "Second Batch",
             "date": "Around Oct or Nov"
         }
     ]
